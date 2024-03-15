@@ -1,5 +1,23 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Using Predictive and Generative AI to Detect Truthfulness in News Articles
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The issue of fraudulent and misleading news has been an issue for as long as
+humans can remember, but today it is more rampant than ever with online
+news and social media giving everyone the chance to stay up to date with
+news worldwide. With the development of AI, there is the opportunity to ei-
+ther extenuate the increasing amount of misinformative news or to mitigate
+it. Previous approaches have brushed the surface, with many fact-checking
+websites leading the way in debunking non-factual statements made by var-
+ious sources, but the development of generative AI has opened new doors
+that have allowed for new techniques to develop. This project will continue
+to push the needle towards minimizing misinformation and disinformation
+from media sources through predictive AI and generative AI machine learn-
+ing methods. By finding new data that is specific to this task, along with
+developing models addressing many different factors that go into detecting
+misinformation, this project will be a culmination of the most important fac-
+tors contributing to mis/disinformation which is unlike many other projects
+previous. The final product will be an interface that is able to intake a news
+article, process the contents using predictive and generative AI, and return
+how true it is by providing text describing the truths/falsities, along with a
+truthfulness score from 1-100.

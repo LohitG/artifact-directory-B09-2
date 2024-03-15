@@ -1,4 +1,4 @@
-# artifact-directory-template
+# artifact-directory-B09-2
 
 This repository is a template for turning in links/locations to your
 project artifacts. Instructions:
